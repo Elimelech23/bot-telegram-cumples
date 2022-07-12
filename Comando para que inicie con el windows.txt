@@ -1,0 +1,9 @@
+#  Ruta de Python.exe  ----> "C:\Users\Python.exe" #  Ruta de script  ----> "C:\User\Documents\bot.py"
+
+
+
+# Guardar como .bat
+
+
+task shcelduler
+
